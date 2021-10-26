@@ -7,6 +7,6 @@
 
 Enthusiast of the best web development technologies.
 
-Knowledge about HTML, CSS, JavaScript, PHP, MySql, Laravel, NodeJS, ReactJs ReactNative...
+Knowledge about HTML, CSS, JavaScript, PHP, MySql, Laravel, NodeJS, ReactJS ReactNative, AngularJS...
 
 "You can't build what you don't know, but you can build everthing, beacause you can learn what you don't know"

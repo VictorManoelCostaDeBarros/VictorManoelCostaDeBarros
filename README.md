@@ -1,9 +1,5 @@
 # Hi There, I'm Victor Manoel 
 
--I'm currently working as Web Develop @Ethosx
--I'm learning about ReactJS, ReactNative and NodeJS with @rocketseat
-
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-VictorManoel-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victormanoelcostadebarros/)](https://www.linkedin.com/in/victormanoelcostadebarros/) 
 
